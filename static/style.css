@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    font-size: medium;
+}
+
+h1 {
+    text-align: center;
+    font-size: large;
+    margin-bottom: 20px; 
+}
+
+.question {
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+}
+
+
+.my-container {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: flex-start; 
+    margin: 10px 0;
+}

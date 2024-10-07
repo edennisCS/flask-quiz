@@ -1,0 +1,56 @@
+[
+    {
+        "id": "q1",
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+        "answer": "Paris"
+    },
+    {
+        "id": "q2",
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+    },
+    {
+        "id": "q3",
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "answer": "Mars"
+    },
+    {
+        "id": "q4",
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+    },
+    {
+        "id": "q5",
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "Jane Austen", "Mark Twain", "William Shakespeare"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "id": "q6",
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Fe", "Pb"],
+        "answer": "Au"
+    },
+    {
+        "id": "q7",
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "options": ["Asia", "Africa", "Australia", "South America"],
+        "answer": "Africa"
+    },
+    {
+        "id": "q8",
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Tomato", "Onion", "Avocado", "Pepper"],
+        "answer": "Avocado"
+    },
+    {
+        "id": "q9",
+        "question": "In which year did the Titanic sink?",
+        "options": ["1905", "1912", "1915", "1920"],
+        "answer": "1912"
+    }
+]
